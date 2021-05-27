@@ -1,0 +1,22 @@
+
+-- {
+--     "posts": [
+--         {
+--             "id": 2,
+--             "caption": "Looks nice, right?",
+--             "imageUrl": "https://images.unsplash.com/photo-1566647387313-9fda80664848?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1001&q=80",
+--             "userId": 2,
+--             "userEmail": "person@person.person",
+--             "createdAt": "2021-05-20T20:51:59.416Z"
+--         },
+--         {
+--             "id": 1,
+            -- "caption": "My old setup",
+            -- "imageUrl": "https://images.unsplash.com/photo-1596443019365-eb263a588404?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2089&q=80",
+--             "userId": 1,
+--             "userEmail": "me@you.them",
+--             "createdAt": "2021-05-20T19:33:02.172Z"
+--         }
+--     ]
+-- }
+
