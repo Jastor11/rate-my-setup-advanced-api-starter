@@ -1,7 +1,6 @@
-# PERN Stack Auth Starter API
+# Rate My Setup Advanced API
 
-This repo should server as a starting point for a new PERN stack project. It offers a simple user registration and login system without any long-term authorization mechanism baked in.
-
+This repo should server as a starting point for the Rate My Setup application API. 
 ## Dev Setup
 
 To get the environment up and running, install the dependencies with `npm install`.
@@ -17,7 +16,7 @@ And modify any of the necessary environment variables.
 Then (as long as PostgreSQL is running on your machine) create the db and tables by running:
 
 ```bash
-psql -f auth-starter.sql
+psql -f rate-my-setup.sql
 ```
 
 Finally, start up the application with `npm start`.
